@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="spe.gob.ec" GeneratedClassName="SrvEventos">
+  <Profiles />
+  <Settings>
+    <Setting Name="Tiempo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">900000</Value>
+    </Setting>
+    <Setting Name="HoraInicio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">07:00:00 AM</Value>
+    </Setting>
+    <Setting Name="HoraFin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">22:00:00 PM</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
